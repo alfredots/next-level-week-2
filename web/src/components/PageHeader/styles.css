@@ -31,6 +31,12 @@
   color: var(--color-text-in-primary);
 }
 
+.page-header .header-content p {
+  font: 700 2.3rem Archivo;
+  color: var(--color-text-in-primary);
+  margin: 2.4rem;
+}
+
 .page-header .top-bar-container a {
   height: 3.2rem;
   transition: opacity 0.2s;
